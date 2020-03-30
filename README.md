@@ -1,11 +1,3 @@
-#: git_test
-<<<<<<< HEAD
-git-test
-=======
-personal learning git! 
->>>>>>> origin/master
-
-
 在用户：zhaolongQQ
 仓库：git_test_feature
 分支：feature_test
@@ -13,6 +5,6 @@ personal learning git!
 
 第二次修复README.md文件
 
-
-
 git_test的修改
+
+git_test_feature 修改文件README.md

@@ -4,3 +4,9 @@ git-test
 =======
 personal learning git! 
 >>>>>>> origin/master
+
+
+在用户：zhaolongQQ
+仓库：git_test_feature
+分支：feature_test
+第一次修改README.md文件
